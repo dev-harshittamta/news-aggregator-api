@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "fullName": "user1",
+      "email": "user1@example.com",
+      "password": "$2b$10$G/5vjEPpxd/5W8Twjhtn7eR5TvNIBcZnW1NfHmS5j95YU2y6UWJ6m",
+      "preferences": {
+        "categories": ["technology", "science"],
+        "sources": ["bbc-news", "cnn"]
+      }
+    },
+    {
+      "fullName": "harshit Tmata",
+      "email": "example@abc.com",
+      "password": "$2b$10$G9qBgvnFQwvFTRujgHjDKeDVxYaFvrWnuvG9vxqojbGpESlUWe8XS",
+      "preferences": {}
+    },
+    {
+      "fullName": "harshit Tmata",
+      "email": "example@abc.com",
+      "password": "$2b$10$GVAoot.Yl.ftryqHSRG4T.Rm79AbfLeja3VK3qqqq2bSJl9ffmjJu",
+      "preferences": {}
+    },
+    {
+      "fullName": "harshit Tmata",
+      "email": "example@abc.com",
+      "password": "$2b$10$5WociOOY8BrEh3xhOOQOZOZNPwq2rYwQO7hPiYHxIyuLoj/iBFo92",
+      "preferences": {}
+    },
+    {
+      "fullName": "harshit Tmata",
+      "email": "examp@abc.com",
+      "password": "$2b$10$MzohVDpwf9Iw1iUILoz/ceYWxyetFR9WUD6xEd..qiEzmTl3CuERe",
+      "preferences": {}
+    },
+    {
+      "fullName": "harshit Tmata",
+      "email": "examp1@abc.com",
+      "password": "$2b$10$dpKZL4AEXGQCpPcTTDA3veGbDP0pvYDB0FBpUsXGRvddbPCWAJuAu",
+      "preferences": {
+        "fullName": "harshit Tmata",
+        "email": "examp1@abc.com",
+        "password": "123",
+        "country": "us"
+      }
+    }
+  ]
+}
